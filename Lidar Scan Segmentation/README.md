@@ -78,17 +78,17 @@ The final PLY output uses the following color scheme:
 ---
 #### Result for File **1.ply**
 A scene with multiple smaller line segments and one distinct circular object.
-[Placeholder for the image of the result visualization for File 1, showing red circle inliers and blue line inliers]
+[File 1 Image](https://github.com/Raphtildai/3D-Computer-Vision/blob/main/Lidar%20Scan%20Segmentation/images/1.png)
 
 ---
 #### Result for File **11.ply**
 A scene dominated by very long line segments (up to $19.75 \text{ m}$), likely representing an open area.
-[Placeholder for the image of the result visualization for File 11, showing long blue line segments]
+[File 11 Image](https://github.com/Raphtildai/3D-Computer-Vision/blob/main/Lidar%20Scan%20Segmentation/images/11.png)
 
 ---
 #### Result for File **21.ply**
 A scene combining long line segments with one clear circular object detected at $R \approx 0.299 \text{ m}$.
-[Placeholder for the image of the result visualization for File 21, showing lines and a circle]
+[File 21 Image](https://github.com/Raphtildai/3D-Computer-Vision/blob/main/Lidar%20Scan%20Segmentation/images/21.png)
 
 ## 🧑‍💻 Contribution Statement (AI Use Disclosure)
 
